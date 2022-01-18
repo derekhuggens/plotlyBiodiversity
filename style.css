@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("/Micrococcus_luteus_in_agar_Mc.Conkey.jpg");
+    background-size: cover;
+    color: rgb(240, 240, 240);
+}
+
+.well {
+    background-color: yellow;
+    border: groove;
+}
+
+.panel-primary {
+    background-color: lightgray;
+}
+
+.col-md-5 {
+    border: groove;
+}
+
+.col-md-12 {
+    border: groove;
+}
+
+.bar {
+    padding: 0 50px 0 50px;
+}

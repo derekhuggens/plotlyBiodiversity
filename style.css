@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("bacteria.jpg");
+    background-image: url("/bacteria.jpg");
     background-size: cover;
     color: rgb(240, 240, 240);
 }
